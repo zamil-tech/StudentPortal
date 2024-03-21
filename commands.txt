@@ -1,0 +1,4 @@
+Add-Migration "Name of migration"
+
+
+update-database
